@@ -5,4 +5,3 @@ RUN rabbitmq-plugins enable rabbitmq_web_stomp
 
 EXPOSE 61613
 EXPOSE 15674
-EXPOSE 55674

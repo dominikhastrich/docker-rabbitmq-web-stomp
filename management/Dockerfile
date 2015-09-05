@@ -1,4 +1,4 @@
-FROM dominikhastrich/rabbitmq-web-stomp:latest
+FROM dominikhastrich/docker-rabbitmq-web-stomp:latest
 
 RUN rabbitmq-plugins enable --offline rabbitmq_management
 
